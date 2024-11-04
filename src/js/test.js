@@ -23,35 +23,35 @@ window.onload = function () {
     }
     videoChange();
 
-    function loading() {
-        let loadingScreen = document.querySelector(".loading-screen");
-        let allBody = document.querySelector(".container");
+    // function loading() {
+    //     let loadingScreen = document.querySelector(".loading-screen");
+    //     let allBody = document.querySelector(".container");
 
-        let loadingText = document.getElementById("loading-text");
-        let percent = 1;
+    //     let loadingText = document.getElementById("loading-text");
+    //     let percent = 1;
 
-        function updateProgress() {
+    //     function updateProgress() {
 
-            loadingText.textContent = percent;
-            percent++;
-            if (percent <= 100) {
-                setTimeout(updateProgress, 10);
-            } else {
+    //         loadingText.textContent = percent;
+    //         percent++;
+    //         if (percent <= 100) {
+    //             setTimeout(updateProgress, 10);
+    //         } else {
 
-                let tl = gsap.timeline({});
-                tl.to(loadingText, { duration: 1, y: '100%', ease: 'power2.inOut' })
-                    .to(loadingScreen, { duration: 1, opacity: 0, y: '-100%', ease: "power1.inOut" }, '<0.5')
-                    .to(allBody, { duration: 1, opacity: 1 }, '<0.3')
-                    .to(loadingScreen, { duration: 1, display: 'none', })
+    //             let tl = gsap.timeline({});
+    //             tl.to(loadingText, { duration: 1, y: '100%', ease: 'power2.inOut' })
+    //                 .to(loadingScreen, { duration: 1, opacity: 0, y: '-100%', ease: "power1.inOut" }, '<0.5')
+    //                 .to(allBody, { duration: 1, opacity: 1 }, '<0.3')
+    //                 .to(loadingScreen, { duration: 1, display: 'none', })
 
-                openAni();
-            }
+    //             openAni();
+    //         }
 
-        }
+    //     }
 
-        updateProgress();
-    }
-    loading()
+    //     updateProgress();
+    // }
+    // loading()
 
     function c1Ani() {
         let title1 = gsap.utils.toArray(".index-box .content-box .title-1");
