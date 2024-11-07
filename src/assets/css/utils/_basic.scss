@@ -7,3 +7,20 @@
   text-decoration: none;
   list-style: none;
 }
+
+header {
+  position: fixed;
+  display: flex;
+  justify-content: right;
+  top: 2vw;
+  right: 0vw;
+  width: 100%;
+  z-index: 30;
+
+  div {
+    padding-right: 6vw;
+    img {
+      width: 41vw;
+    }
+  }
+}

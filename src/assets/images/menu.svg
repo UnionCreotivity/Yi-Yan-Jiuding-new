@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 809.73 34.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #232323;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #232323;
+        font-family: NotoSerifTC-SemiBold-90ms-RKSJ-H, 'Noto Serif TC';
+        font-size: 18px;
+        font-weight: 600;
+        letter-spacing: .4em;
+      }
+    </style>
+  </defs>
+  <g id="text">
+    <g>
+      <text class="cls-2" transform="translate(0 15.84)"><tspan x="0" y="0">關於我們</tspan></text>
+      <text class="cls-2" transform="translate(143.23 15.84)"><tspan x="0" y="0">專營項目</tspan></text>
+      <text class="cls-2" transform="translate(286.45 15.84)"><tspan x="0" y="0">最新消息</tspan></text>
+      <text class="cls-2" transform="translate(429.68 15.84)"><tspan x="0" y="0">熱銷建案</tspan></text>
+      <text class="cls-2" transform="translate(572.9 15.84)"><tspan x="0" y="0">人才招募</tspan></text>
+      <text class="cls-2" transform="translate(716.13 15.84)"><tspan x="0" y="0">聯絡我們</tspan></text>
+      <line class="cls-1" x1="691.84" y1=".57" x2="691.84" y2="17.6"/>
+      <line class="cls-1" x1="548.81" y1=".57" x2="548.81" y2="17.6"/>
+      <line class="cls-1" x1="405.77" y1=".57" x2="405.77" y2="17.6"/>
+      <line class="cls-1" x1="262.74" y1=".57" x2="262.74" y2="17.6"/>
+      <line class="cls-1" x1="119.71" y1=".57" x2="119.71" y2="17.6"/>
+    </g>
+  </g>
+</svg>

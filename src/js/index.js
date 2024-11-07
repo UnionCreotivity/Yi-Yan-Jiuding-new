@@ -120,7 +120,10 @@ window.onload = function () {
                 opacity: 0,
                 ease: 'power2.inOut',
             }, '<0.3')
-
+            .to('.header', {
+                opacity: 0,
+                ease: 'power2.inOut',
+            }, '<')
     }
     c1Ani();
 

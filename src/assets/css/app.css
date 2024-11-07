@@ -7,9 +7,26 @@
   list-style: none;
 }
 
+header {
+  position: fixed;
+  display: flex;
+  justify-content: right;
+  top: 2vw;
+  right: 0vw;
+  width: 100%;
+  z-index: 30;
+}
+header div {
+  padding-right: 6vw;
+}
+header div img {
+  width: 41vw;
+}
+
 .test-body {
   background: #d8d8d8;
   width: 100%;
+  position: relative;
 }
 .test-body .loading-screen {
   width: 100vw;
@@ -41,9 +58,9 @@
 }
 .test-body .main-ani-box .index-box .c1-logo {
   position: absolute;
-  width: 105%;
-  top: 0px;
-  left: -2%;
+  width: 88%;
+  top: 1.5vw;
+  left: 6%;
 }
 .test-body .main-ani-box .index-box .content-box {
   position: relative;
