@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 143.62 19.72">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #232323;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #232323;
+        font-family: CormorantGaramond-Regular, 'Cormorant Garamond';
+        font-size: 18px;
+      }
+    </style>
+  </defs>
+  <g id="mountain">
+    <g>
+      <text class="cls-4" transform="translate(0 14.62)"><tspan x="0" y="0">Henry </tspan><tspan class="cls-2" x="48.91" y="0">F</tspan><tspan x="57.67" y="0">o</tspan><tspan class="cls-1" x="66.29" y="0">r</tspan><tspan x="72.63" y="0">d</tspan></text>
+      <line class="cls-3" x1="143.62" y1="9.98" x2="93.49" y2="9.98"/>
+    </g>
+  </g>
+</svg>

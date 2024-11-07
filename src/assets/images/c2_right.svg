@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 545.7 205.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b78044;
+        font-family: CormorantGaramond-SemiBold, 'Cormorant Garamond';
+        font-size: 18px;
+        letter-spacing: .4em;
+      }
+
+      .cls-2 {
+        stroke: #b78044;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #232323;
+        font-family: NotoSerifTC-Medium-90ms-RKSJ-H, 'Noto Serif TC';
+        font-size: 17px;
+      }
+
+      .cls-5 {
+        letter-spacing: .4em;
+      }
+
+      .cls-6 {
+        letter-spacing: .4em;
+      }
+
+      .cls-3 {
+        stroke: #848484;
+      }
+
+      .cls-7 {
+        letter-spacing: .15em;
+      }
+
+      .cls-8 {
+        letter-spacing: .15em;
+      }
+    </style>
+  </defs>
+  <g id="mountain">
+    <g>
+      <text class="cls-4" transform="translate(0 14.96)"><tspan class="cls-6" x="0" y="0">品質是即使沒人看見也要做到最</tspan><tspan class="cls-8" x="333.2" y="0">好，</tspan><tspan class="cls-6" x="0" y="66">精英始終將客戶放在心</tspan><tspan class="cls-8" x="238" y="66">上，</tspan><tspan class="cls-5" x="277.1" y="66">堅持承</tspan><tspan class="cls-8" x="348.5" y="66">諾，</tspan><tspan class="cls-5" x="387.6" y="66">日日追求卓</tspan><tspan class="cls-7" x="506.6" y="66">越。</tspan></text>
+      <line class="cls-3" x1="0" y1="40.78" x2="364.65" y2="40.78"/>
+      <line class="cls-3" x1="0" y1="106.85" x2="537.91" y2="106.85"/>
+    </g>
+    <g>
+      <polyline class="cls-2" points="97.33 199.36 108.17 205.3 .82 205.3"/>
+      <text class="cls-1" transform="translate(.46 193.71)"><tspan x="0" y="0">MORE</tspan></text>
+    </g>
+  </g>
+</svg>
